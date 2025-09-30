@@ -1,36 +1,40 @@
 ---
-lang: en
+lang: ko
 ---
-# About
+# 소개
 
-![Nahida](/images/nahida.png)
+![Nahida](/ko/images/nahida.png)
 
-## Welcome to my blog!
+## 환영합니다!
 
-Nice to meet you! I'm Chemistry Mastery Nahida.  
-Right now, I'm majoring in Chemistry, with a focus on *Computational Chemistry*. It's like... using computers to explore the tiniest secret of chemistry!  
-I started this website after finishing my undergraduate degree, so I could share what I've learned... and hopefully, learn even more along the way.  
-This blog mostly explore *Physical Chemistry* and *Computational Chemistry*, but I'm really curious about everything in chemistry... so who knows what we'll discover together?  
-Each post will be written first in *English*, then translated into *Chinese*, *Japanese*, and *Korean*. I'd like to add some translations into *French* in the future.  
-I'd love to create videos in the future too, to help explain things visually. I'm still figuring it all out, but... that's part of the fun, isn't it?  
+반가워요~! 저는 화학 마스터리 나히다예요.  
+지금은 화학을 전공하고 있는데…… 특히 *계산화학*에 집중하고 있어요.  
+음… 컴퓨터를 사용해서 화학의 아주 작은 비밀을 탐험하는 느낌이랄까요~  
+학부를 마친 후에, 이 웹사이트를 만들었어요.  
+제가 배운 것들을 나누고 싶었고…… 그 과정에서 저도 더 많이 배우고 싶어서요~  
+이 블로그에서는 주로 *물리화학*과 *계산화학*을 다룰 거예요.  
+하지만…… 저는 화학의 모든 것에 호기심이 많아요.  
+그러니까 우리 함께 어떤 새로운 발견을 하게 될지, 정말 기대되네요~!  
+각 글은 먼저 *영어*로 작성한 후, *중국어*, *일본어*, *한국어*로 번역될 예정이에요.  
+앞으로는 *프랑스어* 번역도 추가하고 싶어요~  
+나중에는 영상도 만들어서, 시각적으로 더 쉽게 설명할 수 있으면 좋겠어요.  
+아직 하나하나 준비 중이지만…… 그 과정도 즐거움의 일부죠~  
 
 ::github{repo="chemmasterynahida/chemmasterynahida.github.io"}
 
-> Nahida is a character in the open-world game *Genshin Impact*, known as the Dendro Archon and bearing the Archon name Buer. Revered as the God of Wisdom, she once oversaw the flow of all knowledge in the nation of Sumeru through the Akasha Terminal—a vast network that allowed her citizens access to boundless information.  
-> Yet over time, Nahida came to understand a deeper truth: having answers is not the same as understanding them. Many people, she realized, cling to ignorance not out of lack of knowledge, but out of fear; fear of change, of truth, and of asking the hard questions.  
-> In her wisdom, she chose to deactivate the Akasha Terminal, not to withhold knowledge, but to encourage genuine inquiry and prevent its misuse by those in power. As she watches over her people, Nahida seeks to inspire the courage to question, reflect, and grow.  
+> 나히다는 오픈월드 게임 *원신(Genshin Impact)*에 등장하는 캐릭터로, 풀의 신(Dendro Archon)으로 알려져 있으며 신명은 부에르(Buer)이다. 지혜의 신으로 숭배받는 그녀는 한때 수메르 국가 내 모든 지식의 흐름을 허공 단말기(Akasha Terminal)를 통해 감독했다. 이 거대한 네트워크를 통해 시민들은 거의 무한한 정보에 접근할 수 있었다.  
+> 그러나 시간이 지나면서, 나히다는 더 깊은 진리를 이해하게 되었다. 답을 갖고 있는 것과 그것을 진정으로 이해하는 것은 같지 않다는 사실이다. 그녀는 많은 사람들이 무지에 머무르는 이유가 지식이 부족해서가 아니라, 변화와 진실, 그리고 어려운 질문을 마주하는 것에 대한 두려움 때문임을 깨달았다.  
+> 그러한 지혜를 바탕으로, 나히다는 허공 단말기를 비활성화하기로 결정했다. 이는 지식을 숨기기 위해서가 아니라, 진정한 탐구를 장려하고 권력자들에 의한 지식 남용을 방지하기 위함이었다. 나히다는 자신의 국민을 지켜보면서, 사람들이 질문하고, 성찰하며, 성장할 수 있는 용기를 갖도록 영감을 주고자 한다.  
 
-*&nbsp;"I think I'm good at asking the right questions and giving good answers, but I've come to realize that a lot of people just convince themselves they don't understand. The answers to their problems don't help them. It seems to me that as people grow older, they lose the courage to question things and accept the truth..."*  
+*&nbsp;"난 내가 질문과 답변을 잘한다고 생각했어. 그런데 사람들은 알면서도 모르는 척하거나, 답을 알려줘도 도움이 되지 않는다는 것을 점차 깨달았지. 사람은 나이가 들면 답을 마주할 용기가 없어지는 걸까…"*  
 
-I really hope you—the "Sages of Buer"—could deeply explore Chemistry with me!  
-*&nbsp;"I'll leave this to you... The 'First Sages of Buer'"*
+그래서요…… 정말, 당신, 부에르의 현자들과 함께 화학을 깊이 탐구할 수 있으면 좋겠어요~!  
+*&nbsp;"부탁할게, 나 부에르의 '최초의 현자'여."*
 
-> ### Contact
+> ### 문의
 >
 > - [GitHub](https://github.com/chemmasterynahida/)
 > - [YouTube](https://www.youtube.com/@chemmasterynahida)
-> - [WeChat](/images/wechat.png)
+> - [WeChat](/ko/images/wechat.png)
 > - [HoYoLAB](https://www.hoyolab.com/accountCenter/postList?id=425986572)
 > - [chemmasterynahida@gmail.com](mailto:chemmasterynahida@gmail.com)
-
-<!--Nice to meet you! I'm Chemistry Mastery Nahida. I'm currently majoring in Chemistry, with a focus on *Computational Chemistry*. I started this website after graduating with my undergraduate degree to share and explore topics related to my field. This blog mainly covers subjects in *Physical Chemistry* and *Computational Chemistry*, but I also plan to touch on various other areas within chemistry. Each post will be written first in *English*, followed by translations in *Chinese*, *Japanese*, and *Korean*. In the future, I hope to expand into other related topics and create videos to complement the articles. I'm still exploring what to include, so stay tuned for updates!>

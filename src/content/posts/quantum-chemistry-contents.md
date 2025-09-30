@@ -1,86 +1,86 @@
 ---
-title: "Quantum Chemistry: Contents"
+title: "양자화학: 목차"
 published: 2025-09-30
-tags: [Quantum Chemistry, Contents]
-category: Quantum Chemistry
-lang: en
+tags: [양자화학, 목차]
+category: 양자화학
+lang: ko
 draft: false
 ---
 
-# Quantum Chemistry
+# 양자화학
 
-The final version of Contents will be TBD
+최종본 추후 확정 예정
 
-1. Historical Background of Quantum Mechanics  
-    1.1. Blackbody Radiation  
-    1.2. Photoelectric Effect  
-    1.3. Atomic Model  
-    1.4. Matter Wave  
-2. The Schrödinger Equation  
-    2.1. The Equation  
-    2.2. Uncertainty Principle <!-- Levine 1.3 -->  
-    2.3. Operators <!-- Levine 3 -->  
-    2.4. Quantum Postulates <!-- Levine 7.8 -->  
-3. Particle in a Box  
-    3.1. Free Particle in One Dimension  
-    3.2. Particle in a One-Dimensional Box  
-    3.3. Particle in a Rectengular Well  
-    3.4. Tunneling  
-4. The Harmonic Oscillator  
-    4.1. The One-Dimensional Harmonic Oscillator  
-    4.2. Vibration of Diatomic Molecules  
-5. Angular Momentum  
-    5.1. Angular Momentum of a One-Particle System  
-    5.2. The Two-Particle Rigid Rotor <!-- Levine 6.4 -->  
-    5.3. Ladder-Operator Method  
-6. The Hydrogen Atom <!-- Levine 6 -->  
-    6.1. The Hydrogen Atom  
-    6.2. The Bound-State Hydrogen-Atom Wave Functions  
-    6.3. Hydrogen-Like Orbitals  
-    6.4. The Zeeman Effect  
-7. Variation Method  
-8. Perturbation Theory  
-9. Electron Spin  
-    9.1. Spin in the Hydrogen Atom  
-    9.2. Spin-Statistics Theorem  
-    9.3. Helium Atom  
-    9.4. Pauli Exclusion Principle  
-    9.5. Slater Determinants  
-10. Electronic Structure of Diatomic Molecules <!-- Levine 13 -->  
-    10.1. Born-Oppenheimer Approximation  
-    10.2. Hydrogen Molecule Ion  
-    10.3. Hydrogen Molecule  
-    10.4. Homonuclear Diatomic Molecules  
-    10.5. Heteronuclear Diatomic Molecules  
-11. Many-Electron Atoms <!-- Levine 11 -->  
-    11.1. Hartree-Fock Self-Consistent-Field Method  
-    11.2. Orbitals and Periodic Table  
-    11.3. Electron Correlation  
-    11.4. Angular Momentum in Many-Electron Atoms  
-    11.5. Atomic Hamiltonian  
-12. Molecular Quantum Mechanics  
-    12.1. Electron Probability Density  
-    12.2. Dipole Moments  
-    12.3. HF for Molecules  
-    12.4. Virial Theorem  
-    12.5. Hellmann-Feynman Theorem  
-    12.6. Electrostatic Theorem  
-13. Molecular Electronic Structure  
-    13.1. Polyatomic Molecules  
-    13.2. Basis Functions  
-    13.3. SCF MO Treatment  
-    13.4. Population Analysis and Bond Orders  
-14. Electron-Correlation Methods  
-    14.1. Correlation Energy  
-    14.2. Configuration Interaction  
-    14.3. Møller-Plesset Perturbation Theory  
-    14.4. Coupled-Cluster Method  
-    14.5. Density Functional Theory  
-    14.6. Quantum Monte Carlo Method  
-    14.7. Chemical Reactions  
-15. Semiempirical Methods  
-    15.1. Hückel MO Method  
-    15.2. Pariser-Parr-Pople Method  
-    15.3. Semiempirical MO and DFT  
-    15.4. Molecular-Mechanics  
-    15.5. Semiempirical Treatment of Solvent Effects  
+1. 양자역학의 역사적 배경  
+  1.1. 흑체 복사  
+  1.2. 광전 효과  
+  1.3. 원자 모델  
+  1.4. 물질파  
+2. 슈뢰딩거 방정식  
+  2.1. 방정식  
+  2.2. 불확정성 원리 <!-- Levine 1.3 -->  
+  2.3. 연산자 <!-- Levine 3 -->  
+  2.4. 양자 공리 <!-- Levine 7.8 -->  
+3. 상자 속의 입자  
+  3.1. 1차원 자유 입자  
+  3.2. 1차원 상자 속의 입자  
+  3.3. 직사각형 퍼텐셜 우물 속 입자  
+  3.4. 터널링  
+4. 조화 진동자  
+  4.1. 1차원 조화 진동자  
+  4.2. 이원자 분자의 진동  
+5. 각운동량  
+  5.1. 단일 입자 시스템의 각운동량  
+  5.2. 2입자 강체 회전자 <!-- Levine 6.4 -->  
+  5.3. 사다리 연산자 방법  
+6. 수소 원자 <!-- Levine 6 -->  
+  6.1. 수소 원자  
+  6.2. 결합 상태 수소 원자 파동함수  
+  6.3. 수소꼴 원자의 오비탈  
+  6.4. Zeeman 효과  
+7. 변분법  
+8. 섭동 이론  
+9. 전자 스핀  
+  9.1. 수소 원자에서의 스핀  
+  9.2. 스핀-통계 정리  
+  9.3. 헬륨 원자  
+  9.4. 파울리 배타 원리  
+  9.5. Slater 행렬식  
+10. 이원자 분자의 전자 구조 <!-- Levine 13 -->  
+  10.1. Born-Oppenheimer 근사  
+  10.2. 수소 분자 이온  
+  10.3. 수소 분자  
+  10.4. 동핵 이원자 분자  
+  10.5. 이핵 이원자 분자  
+11. 다전자 원자 <!-- Levine 11 -->  
+  11.1. Hartree-Fock 자체일관장(HF-SCF) 방법  
+  11.2. 궤도와 주기율표  
+  11.3. 전자 상관  
+  11.4. 다전자 원자의 각운동량  
+  11.5. 원자 해밀토니안  
+12. 분자에서의 양자역학  
+  12.1. 전자 확률 밀도  
+  12.2. 쌍극자 모멘트  
+  12.3. 분자의 HF 방법  
+  12.4. Virial 정리  
+  12.5. Hellmann-Feynman 정리  
+  12.6. 정전기 정리  
+13. 분자의 전자 구조  
+  13.1. 다원자 분자  
+  13.2. 기저 함수  
+  13.3. SCF MO 처리  
+  13.4. 전자 점유 분석 및 결합 차수  
+14. 전자 상관 방법  
+  14.1. 상관 에너지  
+  14.2. 구성 상호작용(CI)  
+  14.3. Møller-Plesset 섭동 이론  
+  14.4. 결합군 방법(CC)  
+  14.5. 밀도 범함수 이론(DFT)  
+  14.6. 양자 몬테카를로 방법  
+  14.7. 화학 반응  
+15. 준경험적 방법  
+  15.1. Hückel MO 방법  
+  15.2. Pariser-Parr-Pople 방법  
+  15.3. 준경험적 MO 및 DFT  
+  15.4. 분자 역학(MM)  
+  15.5. 용매 효과의 준경험적 처리  
