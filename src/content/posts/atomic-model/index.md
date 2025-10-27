@@ -183,7 +183,7 @@ $$\frac{d\sigma}{d\theta}\approx\frac{\theta}{\theta_{rms}^{2}}exp\!\left(-\frac
 
 여기서:  
 
-* $\theta_{rms}$ — the root-mean-square average of the scattering angle (varies with material)  
+* $\theta_{rms}$ — 산란각의 평균 제곱근(rms), 재료에 따라 달라짐  
 
 ---
 
@@ -271,8 +271,8 @@ $$\frac{1}{\lambda} = A \left( \frac{1}{(n_1 + \mu_1)^2} - \frac{1}{(n_2 + \mu_2
 여기서  
 
 * $A$ — 원소에 따라 달라지는 상수(리드베리 상수와 핵 전하 포함)  
-* $n_1, n_2$ — positive integers, with $n_2 = n_1 + 1, n_1 + 2, \cdots$  
-* $\mu_1, \mu_2$ — small correction terms that vary by element  
+* $n_1, n_2$ — 양의 정수 $n_2 = n_1 + 1, n_1 + 2, \cdots$  
+* $\mu_1, \mu_2$ — 원소마다 달라지는 작은 보정항  
 
 수소에서는 보정항이 사라지고 ($\mu_1 = \mu_2 = 0$), 공식은 아름답게 단순해져서 **리드베리 공식**(Rydberg formula)이 됩니다:  
 
