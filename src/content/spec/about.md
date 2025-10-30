@@ -36,5 +36,5 @@ lang: ko
 > - [GitHub](https://github.com/chemmasterynahida/)
 > - [YouTube](https://www.youtube.com/@chemmasterynahida)
 > - [WeChat](/ko/images/wechat.png)
-> - [Discord](https://discord.gg/K56kRv3x)
+> - [Discord](https://discord.gg/2nUFTgBr73)
 > - [chemmasterynahida@gmail.com](mailto:chemmasterynahida@gmail.com)
