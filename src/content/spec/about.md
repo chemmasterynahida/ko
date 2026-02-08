@@ -3,7 +3,7 @@ lang: ko
 ---
 # 소개
 
-![Nahida](/ko/images/nahida.png)
+![Nahida](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/images/nahida.png)
 
 ## 환영합니다!
 
@@ -22,7 +22,7 @@ lang: ko
 
 ::github{repo="chemmasterynahida/chemmasterynahida.github.io"}
 
-> 나히다는 오픈월드 게임 *원신(Genshin Impact)*에 등장하는 캐릭터로, 풀의 신(Dendro Archon)으로 알려져 있으며 신명은 부에르(Buer)이다. 지혜의 신으로 숭배받는 그녀는 한때 수메르 국가 내 모든 지식의 흐름을 허공 단말기(Akasha Terminal)를 통해 감독했다. 이 거대한 네트워크를 통해 시민들은 거의 무한한 정보에 접근할 수 있었다.  
+> 나히다는 오픈월드 게임 *원신*에 등장하는 캐릭터로, 풀의 신(Dendro Archon)으로 알려져 있으며 신명은 "부에르"이다. 지혜의 신으로 숭배받는 그녀는 한때 수메르 국가 내 모든 지식의 흐름을 "허공 단말기"를 통해 감독했다. 이 거대한 네트워크를 통해 시민들은 거의 무한한 정보에 접근할 수 있었다.  
 > 그러나 시간이 지나면서, 나히다는 더 깊은 진리를 이해하게 되었다. 답을 갖고 있는 것과 그것을 진정으로 이해하는 것은 같지 않다는 사실이다. 그녀는 많은 사람들이 무지에 머무르는 이유가 지식이 부족해서가 아니라, 변화와 진실, 그리고 어려운 질문을 마주하는 것에 대한 두려움 때문임을 깨달았다.  
 > 그러한 지혜를 바탕으로, 나히다는 허공 단말기를 비활성화하기로 결정했다. 이는 지식을 숨기기 위해서가 아니라, 진정한 탐구를 장려하고 권력자들에 의한 지식 남용을 방지하기 위함이었다. 나히다는 자신의 국민을 지켜보면서, 사람들이 질문하고, 성찰하며, 성장할 수 있는 용기를 갖도록 영감을 주고자 한다.  
 
@@ -35,6 +35,6 @@ lang: ko
 >
 > - [GitHub](https://github.com/chemmasterynahida/)
 > - [YouTube](https://www.youtube.com/@chemmasterynahida)
-> - [WeChat](/ko/images/wechat.png)
+> - [WeChat](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/images/wechat.png)
 > - [Discord](https://discord.gg/2nUFTgBr73)
 > - [chemmasterynahida@gmail.com](mailto:chemmasterynahida@gmail.com)

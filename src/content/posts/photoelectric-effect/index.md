@@ -1,8 +1,8 @@
 ---
-title: 1.2. 광전 효과와 빛의 성질  
+title: "양자화학: 1.2. 광전 효과와 빛의 성질  
 published: 2025-10-16  
 description: "아인슈타인의 이론은 빛에 대한 우리의 이해를 어떻게 바꾸었을까?"  
-image: "photoelectric-effect.png"  
+image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/photoelectric-effect.png"
 tags: ["양자화학"]  
 category: 양자화학  
 lang: ko  
@@ -81,7 +81,7 @@ draft: False
 그중 **알렉산드르 스톨레토프**와 **필리프 레나르트**가 가장 정밀한 연구를 수행했답니다.  
 그들은 양적인 측정을 시도했고, 레나르트는 자외선이 기체 분자를 **이온화**시켜 전자를 풀어줄 수도 있다는 사실까지 발견했죠.  
 
-![Lenard's experiment](lenard-experiment.png "레나르트의 실험")  
+![Lenard's experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/lenard-experiment.png "Lenard's experiment")  
 
 이것이 바로 *레나르트의 장치*예요.  
 그는 빛이 어떻게 금속 표면으로부터 전자를 이탈시키는지를 세심하게 관찰했답니다.  
@@ -90,7 +90,7 @@ draft: False
 금속이 전자를 방출할 때, 반대로 **음전압**을 걸면 전자를 다시 밀어낼 수 있죠 — 보이지 않는 장벽을 세우는 것처럼요.  
 그 음전압이 클수록, 전자가 그것을 넘어 밖으로 나가기 위해 필요한 에너지도 커지게 돼요.  
 
-![Lenard's observation](lenard-stop-potential.jpg "레나르트의 관찰")  
+![Lenard's observation](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/lenard-stop-potential.jpg "Lenard's observation")  
 
 그 실험을 통해 레나르트는 정말 놀라운 사실을 발견했어요.  
 빛의 **진동수(주파수)** 가 높아질수록, **차단 전위**도 함께 커진다는 거예요.  
@@ -105,7 +105,7 @@ draft: False
 *영의 이중슬릿 실험*과 *맥스웰의 전자기 이론*에 따르면, 빛은 **전자기파**로서 파동처럼 행동해야 해요.  
 그렇다면, 이 현상도 파동으로 설명될 수 있지 않을까요?  
 
-![Double slit](Double-slit.png "이중슬릿 실험")  
+![Double slit](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/Double-slit.png "Double-slit experiment")  
 
 금속에 빛이 닿으면, 그 파동이 서서히 전자들에게 에너지를 전달해야 해요.  
 그리고 전자가 충분한 에너지를 얻으면, 표면을 벗어날 수 있겠죠.  
@@ -142,7 +142,7 @@ draft: False
 그렇다면 빛을, 이런 작은 에너지 꾸러미들이 모인 **입자들의 집합**으로 상상할 수 있지 않을까요?  
 이 입자 하나하나를 우리는 지금 **광자(Photon)** 라고 부른답니다.  
 
-![Photoelectric effect](photoelectric-effect.png "광전 효과")  
+![Photoelectric effect](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/photoelectric-effect.png "Photoelectric effect")  
 
 금속 속의 전자들은 원자의 인력에 의해 단단히 묶여 있어요.  
 그 전자를 자유롭게 하려면, 빛 — 즉 광자 — 가 그 결합을 이겨낼 만큼의 에너지를 줘야 하죠.  
@@ -183,7 +183,7 @@ $$E = h\nu - \Phi$$
 결과는 놀라웠어요 — 두 값의 관계가 완벽하게 **직선**, 즉 선형 관계를 이루었던 거예요.  
 그리고 그 기울기… 바로 **플랑크 상수 $h$** 와 정확히 일치했답니다!  
 
-![Millikan's experiment](kinetic-energy.png "밀리컨의 실험")  
+![Millikan's experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/kinetic-energy.png "Millikan's experiment")  
 
 단 하나의 식, 단 하나의 생각이 빛의 본질을 완전히 새롭게 밝혀낸 순간이었어요.  
 

@@ -1,15 +1,15 @@
 ---
-title: 1.3. 원자 모형
+title: "양자화학: 1.3. 원자 모형"
 published: 2025-10-24
 description: "원자 모형은 시간에 따라 어떻게 바뀌었을까? 이들이 넘어야 할 장애물은 무엇이었을까?"
-image: "electron-cloud-model.png"
+image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/electron-cloud-model.png"
 tags: ["양자화학"]
 category: 양자화학
 lang: ko
 draft: False
 ---
 
-안녕하세요~ 화학 마스터리 나히다입니다.  
+안녕하세요~ 화학 마스터리 나히다예요.  
 지난번에는 에너지의 양자적 성질에 대해 이야기했었죠, 기억하시나요?  
 오늘은 시야를 조금 줄여서—한 개의 원자만큼 작은 세계를 들여다보려 해요.  
 
@@ -19,7 +19,7 @@ draft: False
 
 # 원자 모형
 
-19세기 초, **존 돌턴(John Dalton)**이라는 과학자가 아주 흥미로운 사실을 발견했어요—**배수비 법칙(Law of Multiple Proportions)**이죠.
+19세기 초, **존 돌턴**(John Dalton)이라는 과학자가 아주 흥미로운 사실을 발견했어요—**배수비 법칙**(Law of Multiple Proportions)이죠.
 
 그는 원자들이 화합물을 만들 때 항상 **정수 비율로 결합**한다는 것을 알아냈어요.
 예를 들어, 질소의 양을 일정하게 유지하면, 질소 산화물에서 산소의 양은 단순한 패턴을 따릅니다—N₂O, NO, NO₂ 같은 경우, 1:2:4 비율을 보이죠.
@@ -53,12 +53,12 @@ draft: False
 이 음극선은 저압 가스로 채워진 관 속에서, 높은 전압이 걸릴 때 **음극에서 방출**되는 빛줄기였죠.  
 
 톰슨은 전기장과 자기장을 적용하며 흥미로운 사실을 발견했어요—음극선이 **휘어진다는 것**이었죠!  
-![magnetic-deflection](magnetic-deflection.png "magnetic-deflection")  
+![Magnetic deflection](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/magnetic-deflection.png "Magnetic deflection")  
 이 휘어짐은 음극선이 **전하를 가지고 있다**는 걸 보여줬어요. 마치 움직이는 입자처럼요.  
 
 ---
 
-![Thomson's experiment](thomson-equipment.png "Thomson's experiment")  
+![Thomson's experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/thomson-equipment.png "Thomson's experiment")  
 정밀한 측정을 통해, 톰슨은 음극선이 **전하를 띤 입자들의 흐름**이라는 것을 알아냈어요.  
 자기력과 전기력을 **완벽하게 균형**시켜 빔이 **정확히 직선으로 가도록** 만들면, 입자의 질량 대비 전하 비율, 즉 $e/m$을 계산할 수 있었죠.  
 
@@ -79,9 +79,9 @@ $$(현대값:~-1.76 \times 10^{11}~C/kg)$$
 1905년, 이 발견을 바탕으로 톰슨은 원자를 새롭게 상상하는 방법을 제안했어요.  
 그는 음전하를 띤 전자들이 **양전하 구체** 안에 박혀 있다고 생각했죠,  
 마치 푸딩 속에 흩뿌려진 건포도처럼요.  
-![plum pudding](pudding.jfif "plum pudding")  
+![plum pudding](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/pudding.jfif "plum pudding")  
 이를 **건포도 푸딩 모형**(Plum Pudding Model)이라고 불렀답니다.  
-![plum pudding model](plum-pudding-model.jpg "plum pudding model")  
+![plum pudding model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/plum-pudding-model.jpg "plum pudding model")  
 
 처음에는 합리적으로 보였어요—전자들이 고르게 배치되어, 양전하 “젤리” 속에서 부드럽게 진동할 수 있으니까요.  
 수학적으로도 안정적으로 보였지만… 물리학은 다른 이야기를 하고 있었죠.  
@@ -111,7 +111,7 @@ $$(현대값:~-1.76 \times 10^{11}~C/kg)$$
 
 하지만 실제로 관찰된 것은… **충격적**이었어요.
 몇몇 알파 입자는 크게 휘어졌고, 일부는 아예 **되튕겨 돌아갔어요**!
-![Geiger Marsden experiment](rutherford-experiment.png "Geiger-Marsden experiment")  
+![Geiger Marsden experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/rutherford-experiment.png "Geiger-Marsden experiment")  
 
 ---
 
@@ -148,7 +148,7 @@ $$E_{\alpha} = \frac{1}{4\pi\epsilon_{0}} \frac{q_{\alpha} q_{Z}}{r_{min}}$$
 
 알파 입자가 어떻게 산란되는지 설명하기 위해, 러더퍼드는 입자의 경로를 **쌍곡선 궤도**(hyperbolic orbit)로 모델링하고, **산란각**(scattering angle) 공식을 도출했답니다:  
 
-![Geometry of the model](rutherford-explanation.png "Geometry of the model")  
+![Geometry of the model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/rutherford-explanation.png "Geometry of the model")  
 $$\theta = 2~arctan\left(\frac{r_{min}}{2b}\right) = 2~arctan\left(\frac{1}{4\pi\epsilon_{0}} \frac{q_{\alpha}q_{Z}}{2bE_{\alpha}}\right)$$  
 
 여기서:  
@@ -165,7 +165,7 @@ $$\theta = 2~arctan\left(\frac{r_{min}}{2b}\right) = 2~arctan\left(\frac{1}{4\pi
 **톰슨 모델**과 **러더퍼드 모델**의 핵심 차이는 바로 입자들이 산란되는 방식에 있어요.  
 왜 일부 알파 입자가 뒤로 튕겨 나가는지 이해하려면, 산란각이 어떻게 변하는지 살펴봐야 해요.  
 
-![Geometry of scattering](scattering-geometry.png "Geometry of scattering")
+![Geometry of scattering](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/scattering-geometry.png "Geometry of scattering")
 
 러더퍼드는 **미소 단면적**(differential cross section)을 사용해, 입자가 특정 각도로 산란될 **확률**을 계산했답니다:  
 
@@ -211,7 +211,7 @@ $$\frac{d\sigma}{d\theta}\approx\frac{\theta}{\theta_{rms}^{2}}exp\!\left(-\frac
 > 원자는 미니어처 태양계와 같다.  
 > 음전하를 띤 전자는 양전하 핵을 **공전**한다—마치 행성이 별 주위를 도는 것처럼.  
 
-![Rutherford's model](rutherford-model.jpg "Rutherford's model")
+![Rutherford's model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/rutherford-model.jpg "Rutherford's model")
 
 ---
 
@@ -222,7 +222,7 @@ $$\frac{d\sigma}{d\theta}\approx\frac{\theta}{\theta_{rms}^{2}}exp\!\left(-\frac
 즉, 전자는 안으로 나선형으로 돌며  
 원자가 **순식간에 붕괴**할 수 있다는 뜻이죠!  
 
-![collapsing atom](atom-collapse.jpg "Rutherford's model will be collapsed")
+![collapsing atom](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/atom-collapse.jpg "Rutherford's model will be collapsed")
 
 그래서… 원자가 어떻게 안정될 수 있을까요?  
 이 단순하지만 깊은 질문은 곧 **양자 이론**이라는 새로운 장을 열게 될 거예요.  
@@ -245,7 +245,7 @@ $$\frac{d\sigma}{d\theta}\approx\frac{\theta}{\theta_{rms}^{2}}exp\!\left(-\frac
 
 가장 단순한 원자, **수소**부터 시작해 볼게요.  
 
-![Hydrogen spectra](hydrogen-spectra.png "Spectral lines of hydrogen in visible light range")
+![Hydrogen spectra](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/hydrogen-spectra.png "Spectral lines of hydrogen in visible light range")
 
 수소는 네 개의 뚜렷한 가시광선을 방출해요:  
 <span style="color: #ffffff; background-color: #ff0000;">**656.3 nm**</span>, <span style="color: #000000; background-color: #00ceff;">**486.1 nm**</span>, <span style="color: #ffffff; background-color: #1400ff;">**434.0 nm**</span>, 그리고 <span style="color: #ffffff; background-color: #6500ff;">**410.2 nm**</span>.  
@@ -331,21 +331,9 @@ $$L=mvr=n\frac{h}{2\pi}$$
 ---
 
 이제 **고전역학**을 사용해, 보어는 각 궤도의 반지름과 에너지를 유도했어요.  
-> 전자는 $-e_0$의 전하를 가지고 있고,  
-> 원자핵은 $+Ze_0$의 전하를 가지고 있죠.  
-> 전자가 궤도를 돌 때는, **쿨롱 인력과 원심력**이 서로 평형을 이뤄야 해요.  
-> $$\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r^{2}}=\frac{mv^{2}}{r}$$  
-> 또, 각운동량 관계식으로부터  
-> $$v=\frac{nh}{2\pi mr}$$  
-> 이를 대입하고 $r$을 구하면,  
-> $$r=\frac{n^{2}h^{2}\epsilon_{0}}{\pi Ze_{0}^{2}m}$$  
-이제 전자의 **총에너지**를 계산해 볼게요.  
-> 운동에너지는 $E_{k} = \frac{1}{2}mv^{2}$,  
-> 퍼텐셜 에너지는 $U = -\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$.  
-> 두 식을 합치면,  
-> $$E-E_{k}+U=\frac{1}{2}mv^{2}-\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$$  
-> $r$과 $v$를 대입하면,  
-> $$E=-\frac{mZ^{2}e_{0}^{4}}{8\epsilon_{0}^{2}n^{2}h^{2}}$$  
+
+$$r=\frac{n^{2}h^{2}\epsilon_{0}}{\pi Ze_{0}^{2}m}$$  
+$$E=-\frac{mZ^{2}e_{0}^{4}}{8\epsilon_{0}^{2}n^{2}h^{2}}$$  
 여기서  
 
 * $m$ - 전자의 질량 ($9.109\times10^{-31}kg$),  
@@ -356,7 +344,7 @@ $$L=mvr=n\frac{h}{2\pi}$$
 
 그리고 전자가 궤도 사이를 이동할 때,
 그 에너지 차이에 해당하는 **광자**(photon)를 흡수하거나 방출하죠.  
-![Bohr model](bohr-model.png "Bohr model")  
+![Bohr model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/bohr-model.png "Bohr model")  
 
 이로써 보어는 자신의 모형을 리드베리 공식과 연결했어요:  
 $$\frac{1}{\lambda}=R_{\infty}Z^{2}(\frac{1}{n_{1}^{2}}-\frac{1}{n_{2}^{2}}),~R_{\infty}=\frac{m_{e}e_{0}^{4}}{8\epsilon_{0}^{2}h^{3}c}$$  
@@ -385,10 +373,10 @@ $$\frac{1}{\lambda}=R_{\infty}Z^{2}(\frac{1}{n_{1}^{2}}-\frac{1}{n_{2}^{2}}),~R_
 전기장에 의해 일어나는 이 분열은 **슈타르크 효과**(Stark effect),  
 자기장에 의한 것은 **제만 효과**(Zeeman effect)라 불렸답니다.  
 
-![Stark effect for hydrogen](stark-effect.png "Stark effect for hydrogen")  
+![Stark effect for hydrogen](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/stark-effect.png "Stark effect for hydrogen")  
 *수소의 슈타르크 효과*  
 
-![Zeeman effect for Rb-87](zeeman-effect.png "Zeeman effect for Rb-87")  
+![Zeeman effect for Rb-87](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/zeeman-effect.png "Zeeman effect for Rb-87")  
 *루비듐-87의 제만 효과*  
 
 이 섬세한 현상들을 설명하기 위해, **아르놀트 소머펠트**(Arnold Sommerfeld)는 **알프레드 란데**(Alfred Landé)와 함께 보어의 이론을 한 단계 확장했어요.  
@@ -493,7 +481,7 @@ $$\lambda=\frac{h}{p}$$
 1927년, **데이비슨**(Clinton Davisson)과 **거머**(Lester Germer), 그리고 **조지 톰슨**(George P. Thomson)이 놀라운 실험을 했어요.  
 
 전자들이 빛처럼 스스로 간섭무늬를 만든다는 것을 보여준 거예요!  
-![electron-interference](electron-interference.png "Electron can interfere")  
+![electron-interference](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/electron-interference.png "Electron can interfere")  
 
 *전자들도 파동처럼 행동하며, 아름다운 간섭무늬를 그린답니다.*  
 
@@ -570,7 +558,7 @@ $$mvr=n\hbar$$
 오늘날의 원자 모형은 이렇게 그려져요:  
 중심에는 **양성자와 중성자로 이루어진 밀도 높은 핵**,  
 그 주위를 감싸며 흐릿하게 펼쳐진 **전자 구름**이 존재하죠.  
-![electron cloud model](electron-cloud-model.png "Electron cloud model is recognized today")  
+![electron cloud model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/electron-cloud-model.png "Electron cloud model is recognised today")  
 
 ---
 
@@ -632,7 +620,7 @@ $$mvr=n\hbar$$
 * 다전자(多電子) 원자에서 오비탈의 에너지 순서는 이렇게 이어져요:  
   $1s→2s→2p→3s→3p→4s→3d→4p→5s→4d→5p→6s→4f→5d→6p→\cdots$  
 
-![periodic table](periodic-table.png "alkali metals in periodic table")  
+![periodic table](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/periodic-table.png "alkali metals in periodic table")  
 이제 이 개념들을 하나로 모아보면, 아주 흥미로운 패턴이 나타나요.
 
 * 첫 번째 **2s** 전자는 3번째 원소에서,  
@@ -648,6 +636,24 @@ $$mvr=n\hbar$$
 
 이 신비로운 패턴은 원자 구조의 아름다움을 보여주는 또 하나의 예랍니다.  
 그리고 다음에 다전자 원자를 공부할 때, 이 주기성이 왜 이렇게 생기는지… 더 깊이 탐구해볼 거예요.  
+
+## 보어의 원자 모형 유도
+
+> 전자는 $-e_0$의 전하를 가지고 있고,  
+> 원자핵은 $+Ze_0$의 전하를 가지고 있죠.  
+> 전자가 궤도를 돌 때는, **쿨롱 인력과 원심력**이 서로 평형을 이뤄야 해요.  
+> $$\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r^{2}}=\frac{mv^{2}}{r}$$  
+> 또, 각운동량 관계식으로부터  
+> $$v=\frac{nh}{2\pi mr}$$  
+> 이를 대입하고 $r$을 구하면,  
+> $$r=\frac{n^{2}h^{2}\epsilon_{0}}{\pi Ze_{0}^{2}m}$$  
+이제 전자의 **총에너지**를 계산해 볼게요.  
+> 운동에너지는 $E_{k} = \frac{1}{2}mv^{2}$,  
+> 퍼텐셜 에너지는 $U = -\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$.  
+> 두 식을 합치면,  
+> $$E-E_{k}+U=\frac{1}{2}mv^{2}-\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$$  
+> $r$과 $v$를 대입하면,  
+> $$E=-\frac{mZ^{2}e_{0}^{4}}{8\epsilon_{0}^{2}n^{2}h^{2}}$$  
 
 ## 드 브로이의 물질파 유도
 
@@ -687,7 +693,6 @@ $$\lambda=\frac{h}{p}$$
 > 따라서 군속도는 단순히 이렇게 돼요:  
 > $$v_{g}=\frac{d\omega}{dk}=\beta c=v$$  
 > 즉, 군속도는 입자 자체의 속도와 동일해요.  
-> 이건 우리에게 다시 한 번 상기시켜줘요 — 질량은 곧 에너지라는 사실을요. ($E = mc^{2}$)  
 
 ## 참고문헌
 

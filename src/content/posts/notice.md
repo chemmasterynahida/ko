@@ -23,7 +23,7 @@ draft: false
 
 혹시 이 중에서 어려워 보이는 부분이 있더라도 걱정하지 마세요.  
 댓글로 알려주시면, 여러분을 위해 특별한 강의를 준비할게요.  
-중학교 수준의 이해만으로도 충분히 배울 수 있다고 믿어요.  
+<!--중학교 수준의 이해만으로도 충분히 배울 수 있다고 믿어요.  -->
 조금씩 천천히, 함께 지식을 쌓아가요.  
 
-![nahida](jing-shan-she-shou-ming-lun.png)
+![nahida](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/jing-shan-she-shou-ming-lun.png)  

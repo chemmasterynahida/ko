@@ -1,8 +1,8 @@
 ---
-title: 1.1. 흑체 복사 (Blackbody Radiation)
+title: "양자화학: 1.1. 흑체 복사 (Blackbody Radiation)"
 published: 2025-10-05
 description: "흑체 복사 이론에는 어떤 문제가 있었을까, 그리고 그것은 어떻게 해결되었을까?"
-image: "planck.png"
+image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/planck.png"
 tags: ["양자화학"]
 category: 양자화학
 lang: ko
@@ -21,7 +21,7 @@ draft: false
 혹시 들어본 적 있나요?  
 왠지 미래 기술 같은 느낌이 들죠?  
 예를 들어 *양자 컴퓨터*는 지금도 연구가 활발히 진행되고 있는 분야예요.  
-![quantum computer](qc.jpg "Google의 양자 컴퓨터")
+![quantum computer](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/qc.jpg "Quantum Computer by Google")
 
 그럼 ‘양자’라는 단어는 어디에서 왔을까요?  
 영어 *quantity*(양, 수량)에서 유래된 말이에요.  
@@ -67,7 +67,7 @@ $k$: 볼츠만 상수 ($k=1.380649×10^{−23}~J/K$)
 하지만… 문제가 생겼어요.  
 이 식은 주파수가 높아질수록 에너지가 *무한대*가 된다고 예측했죠.  
 이것이 바로 악명 높은 **자외선 파탄(Ultraviolet Catastrophe)**이에요.  
-![ultraviolet catastrophe](planck.png "\"Ultraviolet catastrophe\"")  
+![ultraviolet catastrophe](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/planck.png "\"Ultraviolet catastrophe\"")  
 즉, 저주파에서는 레이리–진스 법칙이 맞고, 고주파에서는 빈의 법칙이 맞지만, 그 사이를 완벽히 설명할 수 있는 식은 없었답니다.  
 
 ---
@@ -133,21 +133,6 @@ $$\lambda_{peak}=\frac{b}{T}$$
 
 플랑크의 법칙을 모든 주파수에 대해 적분하면,  
 흑체가 방출하는 **총 복사 에너지**를 구할 수 있습니다.  
-
-> $$\int du=\int_{0}^{\infty}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu$$  
-> 계산을 단순화하기 위해 $x=h\nu/kT$라 두면, $dx=hd\nu/kT$가 됩니다.  
-> $$\int_{0}^{\infty}\frac{8\pi k^{3}T^{3}}{h^{2}c^{3}}\cdot\frac{x^{3}}{e^{x}-1}\cdot\frac{kT}{h}dx$$  
-> 알려진 적분 결과는 다음과 같습니다.  
-> $$\int_{0}^{\infty}\frac{x^{3}}{e^{x}-1}dx=\frac{\pi^{4}}{15}$$  
-> 따라서,  
-> $$E=\int du=\frac{8\pi k^{3}T^{3}}{h^{2}c^{3}}\cdot\frac{\pi^{4}}{15}\cdot\frac{kT}{h}=\frac{8\pi^{5}k^{4}T^{4}}{15h^{3}c^{3}}$$  
-
-이로써 흑체의 **총 복사 에너지**를 구했습니다.(단위: $J/m^{3}$) 하지만 **스테판–볼츠만 법칙**은 *복사 세기(radiation power)*, 즉, 단위 면적당 복사 에너지(단위: $W/m^{2}$)를 다룹니다.  
-총 에너지에서 표면 복사로 변환하기 위해 $c/4$를 곱하면,  
-
-> $$M=E\cdot\frac{c}{4}=\frac{8\pi^{5}k^{4}T^{4}}{15h^{3}c^{3}}\cdot\frac{c}{4}=\frac{2\pi^{5}k^{4}T^{4}}{15h^{3}c^{2}}=\sigma T^{4}$$  
-
-따라서,  
 
 **스테판–볼츠만 법칙**  
 $$M=\sigma T^{4}=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}T^{4}$$  
@@ -221,7 +206,7 @@ $$\lambda_{peak}=\frac{b}{T}\approx\frac{hc}{4.9651kT}=\frac{2.90~mm/K}{T}$$
 > 플랑크는 이 문제에 열역학을 적용했어요. 그 기본식은 다음과 같습니다.  
 > $$dU=TdS-PdV$$  
 > 실험은 아주 작은 구멍이 뚫린 상자 안에서 진행되었으므로, 부피 변화는 없습니다.  
-> ![experiment](experiment.jpg "흑체 복사 실험")  
+> ![experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/experiment.jpg "Blackbody Radiation Experiment")  
 > 따라서 열역학식은 다음처럼 단순화됩니다.  
 > $$dU=TdS,~\frac{\partial S}{\partial U}=\frac{1}{T}$$  
 > 플랑크는 두 법칙에 대해 ${\partial S}/{\partial U}$의 형태를 비교했습니다.  
