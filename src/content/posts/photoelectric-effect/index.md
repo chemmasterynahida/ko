@@ -1,5 +1,5 @@
 ---
-title: "양자화학: 1.2. 광전 효과와 빛의 성질  
+title: "양자화학: 1.2. 광전 효과와 빛의 성질"  
 published: 2025-10-16  
 description: "아인슈타인의 이론은 빛에 대한 우리의 이해를 어떻게 바꾸었을까?"  
 image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/photoelectric-effect.png"
